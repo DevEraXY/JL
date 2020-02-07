@@ -3072,6 +3072,11 @@ html.w-mod-js *[data-ix="whenloaded"] {
   .headhero.first {
     width: 100.1371569941756%;
   }
+  @media only screen and (max-width: 754px) {
+  .jln {
+    left:0px
+   }
+  }
   .menubutton {
     display: block;
   }

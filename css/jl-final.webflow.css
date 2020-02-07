@@ -2328,8 +2328,8 @@ img {
 }
 
 .opnemodal:hover {
-  border-bottom-color: #fff;
-  color: #fff;
+    border-bottom-color: #708238;
+    color: #708238;
 }
 
 .footer {
